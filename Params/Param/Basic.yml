@@ -1,0 +1,24 @@
+---
+Basic:
+  dec: "基础设置"
+  parameters:
+    -
+      url: /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1
+      data:
+        -
+          "address_id": 121
+          "integral": ""
+          "pay_pwd": ""
+          "order_use_coupon_ids": ""
+          "goods_id": 698
+          "item_id": 0
+          "goods_num": 1
+          "tip_money": "0.17"
+          "user_money": "45"
+          "user_notes": {"13": ""}
+      header: {
+                 "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
+                  Chrome/67.0.3396.99 Safari/537.36",
+                 "Content-Type": "application/x-www-form-urlencoded"
+              }
+

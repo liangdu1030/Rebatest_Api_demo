@@ -1,0 +1,1140 @@
+2021-01-28 21:45:46,196 - 21028-MainThread - D:/Rebatest_Api_demo/Log/logger.py[line:23] - ERROR: 失败
+2021-01-29 01:33:00,672 - 5444-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:33:27,395 - 14804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:33:41,751 - 13932-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:33:44,898 - 13932-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:73] - INFO: 创建订单成功
+2021-01-29 01:33:46,360 - 13932-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:34:43,168 - 3932-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:34:46,295 - 3932-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:73] - INFO: 创建订单成功
+2021-01-29 01:34:47,786 - 3932-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:35:24,012 - 11620-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:35:26,385 - 11620-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:74] - INFO: 创建订单成功
+2021-01-29 01:40:27,165 - 18760-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:41:15,389 - 3788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:41:17,864 - 3788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:75] - INFO: 创建订单成功
+2021-01-29 01:41:19,073 - 3788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - INFO: Token获取成功
+2021-01-29 01:44:35,748 - 13024-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:44:39,177 - 13024-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:74] - ERROR: 创建订单失败
+2021-01-29 01:44:40,720 - 13024-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:47:50,612 - 15556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:47:54,164 - 15556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:75] - ERROR: 创建订单失败
+2021-01-29 01:47:55,692 - 15556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:50:00,330 - 15512-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:50:03,884 - 15512-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:73] - ERROR: 创建订单失败
+2021-01-29 01:50:06,357 - 15512-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:50:57,857 - 17300-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:72] - ERROR: 创建订单失败
+2021-01-29 01:52:32,326 - 16760-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:52:35,730 - 16760-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:75] - INFO: 创建订单成功
+2021-01-29 01:52:37,213 - 16760-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:53:34,640 - 11508-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:53:38,195 - 11508-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:76] - INFO: 创建订单成功
+2021-01-29 01:54:12,507 - 17544-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:54:15,822 - 17544-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:76] - INFO: 创建订单成功
+2021-01-29 01:55:38,063 - 9300-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:55:40,576 - 9300-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:76] - INFO: 创建订单成功
+2021-01-29 01:56:07,833 - 13024-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:56:12,071 - 13024-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:74] - ERROR: 创建订单失败
+2021-01-29 01:56:20,306 - 12008-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:56:24,010 - 12008-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:74] - ERROR: 创建订单失败
+2021-01-29 01:56:56,266 - 12620-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:56:58,670 - 12620-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:76] - INFO: 创建订单成功
+2021-01-29 01:58:47,981 - 13564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 01:58:51,150 - 13564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:76] - INFO: 创建订单成功
+2021-01-29 02:36:43,716 - 17252-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:37] - ERROR: Token获取失败,登录失败
+2021-01-29 02:39:56,998 - 13856-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 02:41:53,826 - 16100-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 02:43:04,197 - 17232-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 02:43:08,370 - 17232-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:78] - INFO: 创建订单成功
+2021-01-29 04:39:25,795 - 11744-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 04:39:30,045 - 11744-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:79] - INFO: 创建订单成功
+2021-01-29 04:39:31,566 - 11744-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 04:39:35,194 - 11744-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:102] - ERROR: 创建订单失败
+2021-01-29 04:41:20,850 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 04:41:24,185 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:79] - INFO: 创建订单成功
+2021-01-29 04:41:25,370 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 04:41:28,486 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:103] - ERROR: 创建订单失败
+2021-01-29 04:44:20,707 - 21400-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 04:44:24,739 - 21400-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:79] - INFO: 创建订单成功
+2021-01-29 04:44:26,514 - 21400-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 04:44:30,035 - 21400-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:101] - ERROR: 创建订单失败pay_status:1,order_status:0store_id:13
+2021-01-29 04:45:52,268 - 12672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: Token获取成功
+2021-01-29 04:45:55,626 - 12672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:79] - INFO: 创建订单成功
+2021-01-29 04:45:58,835 - 12672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:100] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:13
+2021-01-29 04:51:19,113 - 20732-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:51:22,591 - 20732-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 04:51:23,663 - 20732-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:51:26,827 - 20732-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 创建订单成功
+2021-01-29 04:51:27,908 - 20732-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:51:29,903 - 20732-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - ERROR: 创建订单失败pay_status:False,order_status:Falsestore_id:False
+2021-01-29 04:52:41,300 - 16420-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:52:45,459 - 16420-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 04:52:46,922 - 16420-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:52:50,533 - 16420-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 04:52:51,946 - 16420-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 04:52:54,220 - 16420-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:145] - ERROR: 创建订单失败  pay_status:False,order_status:False,store_id:False
+2021-01-29 04:53:59,376 - 19996-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:54:03,778 - 19996-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 04:54:05,208 - 19996-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:54:08,708 - 19996-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 04:54:10,343 - 19996-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 04:54:12,853 - 19996-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - ERROR: 创建订单失败  pay_status:False,order_status:False,store_id:False
+2021-01-29 04:55:36,140 - 14392-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:55:39,340 - 14392-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 04:55:40,569 - 14392-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:55:43,686 - 14392-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 04:55:44,799 - 14392-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 04:55:46,851 - 14392-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 04:58:55,387 - 18684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:58:59,694 - 18684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 04:59:01,134 - 18684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 04:59:04,710 - 18684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 04:59:06,025 - 18684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 04:59:08,272 - 18684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:145] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 05:05:13,644 - 6696-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:05:17,096 - 6696-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 05:05:18,287 - 6696-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:05:21,535 - 6696-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 05:05:22,721 - 6696-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 05:05:24,842 - 6696-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:145] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 05:06:05,603 - 18140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:06:09,023 - 18140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 05:06:10,217 - 18140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:06:14,608 - 18140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 05:06:15,663 - 18140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 05:06:17,842 - 18140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:145] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 05:07:39,853 - 11052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:07:44,072 - 11052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 05:07:45,356 - 11052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:07:48,757 - 11052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 05:07:50,169 - 11052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 05:07:52,524 - 11052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 05:08:58,737 - 18340-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:09:02,959 - 18340-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 05:09:04,411 - 18340-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:09:07,985 - 18340-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 05:09:09,417 - 18340-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 05:09:11,945 - 18340-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 05:22:14,420 - 21168-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:22:18,665 - 21168-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 05:22:20,254 - 21168-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 05:22:23,662 - 21168-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 05:22:25,041 - 21168-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 05:22:27,256 - 21168-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 20:41:29,895 - 20808-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 20:41:34,265 - 20808-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:105] - INFO: 创建订单成功
+2021-01-29 20:41:38,637 - 20808-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 20:41:49,389 - 20808-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:128] - INFO: 创建订单成功
+2021-01-29 20:41:50,537 - 20808-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:66] - INFO: Seller-Token获取成功
+2021-01-29 20:41:52,609 - 20808-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:145] - ERROR: 创建订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 20:50:32,528 - 20260-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 20:50:36,545 - 20260-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:105] - INFO: 创建订单成功
+2021-01-29 20:50:37,713 - 20260-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 20:50:40,879 - 20260-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:128] - INFO: 创建订单成功
+2021-01-29 20:50:42,016 - 20260-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:66] - INFO: Seller-Token获取成功
+2021-01-29 20:50:44,081 - 20260-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:145] - ERROR: 确认订单失败  status:0
+2021-01-29 20:50:54,890 - 20260-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:66] - INFO: Seller-Token获取成功
+2021-01-29 20:50:57,591 - 20260-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:164] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 20:53:09,945 - 14220-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 20:53:17,598 - 14220-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:105] - INFO: 创建订单成功
+2021-01-29 20:53:18,976 - 14220-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 20:53:22,536 - 14220-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:129] - INFO: 创建订单成功
+2021-01-29 20:57:40,338 - 21648-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 20:57:45,155 - 21648-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:106] - INFO: 创建订单成功
+2021-01-29 20:57:47,144 - 21648-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:40] - INFO: PC-Token获取成功
+2021-01-29 20:57:51,516 - 21648-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-01-29 21:06:52,959 - 11744-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:38] - ERROR: PC-Token获取失败,登录失败
+2021-01-29 21:07:01,332 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:38] - ERROR: PC-Token获取失败,登录失败
+2021-01-29 21:07:50,112 - 13612-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:11:52,343 - 20724-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:14:05,189 - 6796-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:14:53,802 - 8552-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:16:04,662 - 7544-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:16:44,728 - 10524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:17:44,216 - 6800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:18:17,552 - 11608-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:18:59,301 - 22144-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:19:05,601 - 22144-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:127] - INFO: 创建订单成功
+2021-01-29 21:19:06,920 - 22144-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:19:09,379 - 22144-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:145] - INFO: 提交订单成功
+2021-01-29 21:19:10,780 - 22144-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:19:13,050 - 22144-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:162] - ERROR: 确认订单失败  status:0
+2021-01-29 21:19:14,398 - 22144-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:19:16,757 - 22144-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 21:21:06,039 - 4524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:21:11,870 - 4524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:21:12,947 - 4524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:21:14,995 - 4524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:21:16,156 - 4524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:21:18,155 - 4524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:156] - ERROR: 确认订单失败  status:0
+2021-01-29 21:21:19,219 - 4524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:21:21,195 - 4524-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:175] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 21:24:55,266 - 16640-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:25:01,701 - 16640-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:25:03,148 - 16640-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:25:05,444 - 16640-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:25:06,791 - 16640-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:25:09,237 - 16640-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:156] - ERROR: 确认订单失败  status:1
+2021-01-29 21:25:10,685 - 16640-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:25:13,241 - 16640-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:175] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 21:28:11,077 - 10116-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:28:17,233 - 10116-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:28:18,550 - 10116-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:28:20,980 - 10116-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:28:22,314 - 10116-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:28:25,196 - 10116-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:156] - ERROR: 确认订单失败  status:1
+2021-01-29 21:28:26,521 - 10116-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:28:29,228 - 10116-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:173] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,store_id:0
+2021-01-29 21:30:44,751 - 14160-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:30:50,309 - 14160-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:30:51,479 - 14160-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:30:53,477 - 14160-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:30:54,615 - 14160-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:30:56,580 - 14160-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:157] - ERROR: 确认订单失败  status:1
+2021-01-29 21:30:57,640 - 14160-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:30:59,583 - 14160-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:174] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-29 21:33:05,320 - 12084-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:33:11,749 - 12084-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:33:13,112 - 12084-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:33:15,512 - 12084-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:33:16,790 - 12084-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:33:19,117 - 12084-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:155] - INFO: 确认订单成功
+2021-01-29 21:33:20,505 - 12084-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:33:22,799 - 12084-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:174] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-29 21:33:58,594 - 2860-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:34:04,594 - 2860-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:34:05,994 - 2860-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:34:08,376 - 2860-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:34:09,787 - 2860-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:34:13,186 - 2860-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:34:15,485 - 2860-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:176] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-29 21:35:56,692 - 3780-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:36:02,251 - 3780-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:36:03,429 - 3780-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:36:05,465 - 3780-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:36:06,552 - 3780-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:36:08,510 - 3780-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:156] - ERROR: 确认订单失败  status:1
+2021-01-29 21:36:09,647 - 3780-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:36:11,556 - 3780-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:179] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-29 21:49:35,933 - 10684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:49:42,125 - 10684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:49:43,492 - 10684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:49:45,803 - 10684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:49:47,031 - 10684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:49:49,270 - 10684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:156] - ERROR: 确认订单失败  status:1
+2021-01-29 21:49:50,562 - 10684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:49:52,845 - 10684-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-29 21:52:31,667 - 6792-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:52:38,356 - 6792-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:52:39,756 - 6792-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:52:42,098 - 6792-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:52:43,556 - 6792-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:52:45,809 - 6792-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:158] - ERROR: 确认订单失败  status:1
+2021-01-29 21:52:47,192 - 6792-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:52:49,544 - 6792-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-29 21:55:48,350 - 3316-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:55:54,670 - 3316-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:55:55,821 - 3316-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:55:57,850 - 3316-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:55:58,998 - 3316-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:56:01,022 - 3316-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:159] - ERROR: 确认订单失败  status:1
+2021-01-29 21:56:02,100 - 3316-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:56:04,061 - 3316-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:182] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-29 21:56:29,041 - 20052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:56:34,549 - 20052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:56:35,613 - 20052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:56:37,652 - 20052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:56:38,738 - 20052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:56:40,788 - 20052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:156] - INFO: 确认订单成功
+2021-01-29 21:56:41,963 - 20052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:56:44,026 - 20052-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:182] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-29 21:57:27,415 - 14768-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:57:33,605 - 14768-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 21:57:35,000 - 14768-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 21:57:37,290 - 14768-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 21:57:38,558 - 14768-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:57:40,885 - 14768-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:154] - INFO: 确认订单成功
+2021-01-29 21:57:42,215 - 14768-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 21:57:44,486 - 14768-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - INFO: 商家已确认订单成功
+2021-01-29 22:05:19,290 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 22:05:25,630 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 22:05:26,815 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 22:05:28,973 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 22:05:30,148 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:05:32,274 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:154] - INFO: 商家确认订单成功
+2021-01-29 22:05:33,442 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:05:35,605 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - INFO: 商家已确认订单成功
+2021-01-29 22:05:36,774 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:05:37,935 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:05:40,072 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - INFO: 商家已确认订单成功
+2021-01-29 22:05:42,238 - 14800-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:193] - ERROR: 商家订单发货失败  status:0
+2021-01-29 22:08:01,617 - 18360-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:38] - ERROR: PC-Token获取失败,登录失败
+2021-01-29 22:09:05,811 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 22:09:12,239 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 22:09:13,725 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 22:09:16,115 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 22:09:17,458 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:09:19,904 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:154] - INFO: 商家确认订单成功
+2021-01-29 22:09:21,280 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:09:24,169 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - INFO: 商家已确认订单成功
+2021-01-29 22:09:25,663 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:09:27,042 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:09:29,413 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - INFO: 商家已确认订单成功
+2021-01-29 22:09:31,831 - 8528-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:194] - ERROR: 商家订单发货失败  status:0
+2021-01-29 22:13:45,752 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 22:13:52,552 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 22:13:53,924 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 22:13:56,320 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 22:13:57,690 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:14:00,044 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:154] - INFO: 商家确认订单成功
+2021-01-29 22:14:01,471 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:14:03,917 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - INFO: 商家已确认订单成功
+2021-01-29 22:14:05,312 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:14:06,699 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:14:09,108 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - INFO: 商家已确认订单成功
+2021-01-29 22:14:11,533 - 15564-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:194] - ERROR: 商家订单发货失败  status:0
+2021-01-29 22:24:51,846 - 12624-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 22:24:58,352 - 12624-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:120] - INFO: 创建订单成功
+2021-01-29 22:24:59,708 - 12624-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:41] - INFO: PC-Token获取成功
+2021-01-29 22:25:02,104 - 12624-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:138] - INFO: 提交订单成功
+2021-01-29 22:25:03,444 - 12624-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:25:05,859 - 12624-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:154] - INFO: 商家确认订单成功
+2021-01-29 22:25:07,226 - 12624-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:67] - INFO: Seller-Token获取成功
+2021-01-29 22:25:09,558 - 12624-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:179] - INFO: 商家已确认订单成功
+2021-01-29 22:37:44,065 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:42] - INFO: PC-Token获取成功
+2021-01-29 22:37:50,618 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:121] - INFO: 创建订单成功
+2021-01-29 22:37:52,062 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:42] - INFO: PC-Token获取成功
+2021-01-29 22:37:54,542 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:139] - INFO: 提交订单成功
+2021-01-29 22:37:56,220 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-29 22:37:58,636 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:155] - INFO: 商家确认订单成功
+2021-01-29 22:37:59,985 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-29 22:38:02,436 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家已确认订单成功
+2021-01-29 22:38:03,835 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-29 22:38:06,304 - 5204-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:193] - INFO: 商家订单发货成功
+2021-01-29 22:48:23,192 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:42] - INFO: PC-Token获取成功
+2021-01-29 22:48:29,842 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:121] - INFO: 创建订单成功
+2021-01-29 22:48:31,121 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:42] - INFO: PC-Token获取成功
+2021-01-29 22:48:33,406 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:139] - INFO: 提交订单成功
+2021-01-29 22:48:34,698 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-29 22:48:36,897 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:155] - INFO: 商家确认订单成功
+2021-01-29 22:48:38,177 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-29 22:48:40,450 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家已确认订单成功
+2021-01-29 22:48:41,849 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-29 22:48:44,240 - 10556-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:193] - INFO: 商家订单发货成功
+2021-01-30 00:39:45,588 - 22184-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:39] - ERROR: PC-Token获取失败,登录失败
+2021-01-30 00:42:48,392 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:42] - INFO: PC-Token获取成功
+2021-01-30 00:42:56,032 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:121] - INFO: 创建订单成功
+2021-01-30 00:42:57,491 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:42] - INFO: PC-Token获取成功
+2021-01-30 00:43:00,174 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:139] - INFO: 提交订单成功
+2021-01-30 00:43:01,989 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-30 00:43:04,385 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:204] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 00:43:05,729 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-30 00:43:08,084 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:173] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-30 00:43:09,485 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:68] - INFO: Seller-Token获取成功
+2021-01-30 00:43:12,928 - 20812-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:188] - INFO: 商家订单发货成功
+2021-01-30 00:47:02,007 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 00:47:08,915 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:124] - INFO: 创建订单成功
+2021-01-30 00:47:10,079 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 00:47:12,287 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:143] - INFO: 提交订单成功
+2021-01-30 00:47:13,554 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:47:16,065 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 00:47:16,065 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:211] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 00:47:17,513 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:47:19,937 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:178] - ERROR: 商家已确认订单失败  pay_status:1,order_status:0,shipping_status:0
+2021-01-30 00:47:21,348 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:47:23,713 - 21256-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:193] - INFO: 商家订单发货成功
+2021-01-30 00:49:18,942 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 00:49:25,695 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:124] - INFO: 创建订单成功
+2021-01-30 00:49:27,024 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 00:49:29,483 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:143] - INFO: 提交订单成功
+2021-01-30 00:49:30,833 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:49:33,069 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:159] - INFO: 商家确认订单成功
+2021-01-30 00:49:34,420 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:49:36,747 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家已确认订单成功
+2021-01-30 00:49:36,747 - 5676-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - ERROR: {
+  "add_time": 1611985757,
+  "add_time_detail": "2021-01-30 00:49:17",
+  "address": "ALABAMAAutauga CountyAutaugaville36003",
+  "admin_note": "",
+  "city": 21298,
+  "confirm_time": 0,
+  "confirm_time_desc": "",
+  "consignee": "ssssss",
+  "consignee_desc": "ssssss:sssss",
+  "country": 0,
+  "coupon_price": 0.0,
+  "deleted": 0,
+  "discount": 0.0,
+  "district": 21579,
+  "email": "1979635421@qq.com",
+  "goods_price": 1.69,
+  "integral": 0,
+  "integral_money": 0.0,
+  "invoice_title": "",
+  "is_able_admin_refund": false,
+  "is_able_cancel": true,
+  "is_able_cancel_confirm": true,
+  "is_able_cancel_pay": true,
+  "is_able_comment": false,
+  "is_able_confirm": false,
+  "is_able_delivery": true,
+  "is_able_invalid": false,
+  "is_able_modify": false,
+  "is_able_pay": false,
+  "is_able_receive": false,
+  "is_able_refund": false,
+  "is_able_refund_back": false,
+  "is_able_return": false,
+  "is_able_shipping": false,
+  "is_comment": 0,
+  "master_order_sn": "1395237232574496",
+  "mobile": "sssss",
+  "order_amount": 0.0,
+  "order_goods": [
+    {
+      "bar_code": "166463125",
+      "commission": 0,
+      "cost_price": 0.0,
+      "deleted": 0,
+      "delivery_id": 0,
+      "distribut": 0.0,
+      "final_price": 1.69,
+      "give_integral": 0,
+      "goods_id": 698,
+      "goods_name": "日本AMANOYA天乃屋 歌舞伎扬日式米果 62g",
+      "goods_num": 1,
+      "goods_price": 1.69,
+      "goods_sn": "JYT0020",
+      "goods_total": 1.69,
+      "is_checkout": 0,
+      "is_comment": 0,
+      "is_comment_desc": "未评价",
+      "is_send": 0,
+      "member_goods_price": 1.69,
+      "order_id": 1526,
+      "prom_id": 0,
+      "prom_type": 0,
+      "rec_id": 1592,
+      "shop_id": 0,
+      "sku": "4901035222923",
+      "spec_key": "",
+      "spec_key_name": "",
+      "store_id": 13,
+      "tax_price": 0.0
+    }
+  ],
+  "order_goods_count": 1,
+  "order_id": 1526,
+  "order_prom_amount": 0.0,
+  "order_prom_id": 0,
+  "order_sn": "1395237232574528",
+  "order_statis_id": 0,
+  "order_status": 1,
+  "order_status_desc": "已确认",
+  "order_status_detail": "待发货",
+  "order_store_id": 0,
+  "paid_money": 0.0,
+  "parent_sn": "",
+  "pay_code": "",
+  "pay_name": "",
+  "pay_status": 1,
+  "pay_status_detail": "已支付",
+  "pay_status_refund_desc": "待处理",
+  "pay_time": 1611985757,
+  "pay_time_detail": "2021-01-30 00:49:17",
+  "prom_id": 0,
+  "prom_type": 0,
+  "prom_type_desc": "普通订单",
+  "province": 38,
+  "shipping_code": "",
+  "shipping_name": "",
+  "shipping_price": 6.99,
+  "shipping_status": 0,
+  "shipping_status_detail": "未发货",
+  "shipping_time": 0,
+  "shipping_time_desc": "",
+  "shipping_time_detail": "",
+  "shop_id": 0,
+  "show_status": 2,
+  "store_id": 13,
+  "tax_price": 0.0,
+  "taxpayer": "",
+  "tip_money": 0.17,
+  "total_amount": 8.68,
+  "transaction_id": "",
+  "twon": 64963,
+  "user_id": 5,
+  "user_money": 8.85,
+  "user_note": "",
+  "zipcode": ""
+}
+2021-01-30 00:49:58,804 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 00:50:05,235 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:124] - INFO: 创建订单成功
+2021-01-30 00:50:06,643 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 00:50:08,959 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:143] - INFO: 提交订单成功
+2021-01-30 00:50:10,337 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:50:12,977 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:159] - INFO: 商家确认订单成功
+2021-01-30 00:50:14,198 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:50:16,379 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家已确认订单成功
+2021-01-30 00:50:16,380 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - ERROR: {
+  "add_time": 1611985797,
+  "add_time_detail": "2021-01-30 00:49:57",
+  "address": "ALABAMAAutauga CountyAutaugaville36003",
+  "admin_note": "",
+  "city": 21298,
+  "confirm_time": 0,
+  "confirm_time_desc": "",
+  "consignee": "ssssss",
+  "consignee_desc": "ssssss:sssss",
+  "country": 0,
+  "coupon_price": 0.0,
+  "deleted": 0,
+  "discount": 0.0,
+  "district": 21579,
+  "email": "1979635421@qq.com",
+  "goods_price": 1.69,
+  "integral": 0,
+  "integral_money": 0.0,
+  "invoice_title": "",
+  "is_able_admin_refund": false,
+  "is_able_cancel": true,
+  "is_able_cancel_confirm": true,
+  "is_able_cancel_pay": true,
+  "is_able_comment": false,
+  "is_able_confirm": false,
+  "is_able_delivery": true,
+  "is_able_invalid": false,
+  "is_able_modify": false,
+  "is_able_pay": false,
+  "is_able_receive": false,
+  "is_able_refund": false,
+  "is_able_refund_back": false,
+  "is_able_return": false,
+  "is_able_shipping": false,
+  "is_comment": 0,
+  "master_order_sn": "1395237316460576",
+  "mobile": "sssss",
+  "order_amount": 0.0,
+  "order_goods": [
+    {
+      "bar_code": "1750691487",
+      "commission": 0,
+      "cost_price": 0.0,
+      "deleted": 0,
+      "delivery_id": 0,
+      "distribut": 0.0,
+      "final_price": 1.69,
+      "give_integral": 0,
+      "goods_id": 698,
+      "goods_name": "日本AMANOYA天乃屋 歌舞伎扬日式米果 62g",
+      "goods_num": 1,
+      "goods_price": 1.69,
+      "goods_sn": "JYT0020",
+      "goods_total": 1.69,
+      "is_checkout": 0,
+      "is_comment": 0,
+      "is_comment_desc": "未评价",
+      "is_send": 0,
+      "member_goods_price": 1.69,
+      "order_id": 1527,
+      "prom_id": 0,
+      "prom_type": 0,
+      "rec_id": 1593,
+      "shop_id": 0,
+      "sku": "4901035222923",
+      "spec_key": "",
+      "spec_key_name": "",
+      "store_id": 13,
+      "tax_price": 0.0
+    }
+  ],
+  "order_goods_count": 1,
+  "order_id": 1527,
+  "order_prom_amount": 0.0,
+  "order_prom_id": 0,
+  "order_sn": "1395237316460608",
+  "order_statis_id": 0,
+  "order_status": 1,
+  "order_status_desc": "已确认",
+  "order_status_detail": "待发货",
+  "order_store_id": 0,
+  "paid_money": 0.0,
+  "parent_sn": "",
+  "pay_code": "",
+  "pay_name": "",
+  "pay_status": 1,
+  "pay_status_detail": "已支付",
+  "pay_status_refund_desc": "待处理",
+  "pay_time": 1611985797,
+  "pay_time_detail": "2021-01-30 00:49:57",
+  "prom_id": 0,
+  "prom_type": 0,
+  "prom_type_desc": "普通订单",
+  "province": 38,
+  "shipping_code": "",
+  "shipping_name": "",
+  "shipping_price": 6.99,
+  "shipping_status": 0,
+  "shipping_status_detail": "未发货",
+  "shipping_time": 0,
+  "shipping_time_desc": "",
+  "shipping_time_detail": "",
+  "shop_id": 0,
+  "show_status": 2,
+  "store_id": 13,
+  "tax_price": 0.0,
+  "taxpayer": "",
+  "tip_money": 0.17,
+  "total_amount": 8.68,
+  "transaction_id": "",
+  "twon": 64963,
+  "user_id": 5,
+  "user_money": 8.85,
+  "user_note": "",
+  "zipcode": ""
+}
+2021-01-30 00:50:17,600 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:50:19,990 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:193] - INFO: 商家订单发货成功
+2021-01-30 00:50:21,175 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:50:23,378 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 00:50:23,379 - 18428-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:211] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 00:52:52,157 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 00:53:01,036 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:124] - INFO: 创建订单成功
+2021-01-30 00:53:02,465 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 00:53:04,921 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:143] - INFO: 提交订单成功
+2021-01-30 00:53:06,364 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:53:08,861 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:159] - INFO: 商家确认订单成功
+2021-01-30 00:53:10,304 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:53:12,632 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - INFO: 商家已确认订单成功
+2021-01-30 00:53:13,950 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:53:16,418 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:194] - INFO: 商家订单发货成功
+2021-01-30 00:53:17,879 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:53:20,313 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:211] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 00:53:20,313 - 21348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:212] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 00:56:00,068 - 17848-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 00:56:02,288 - 17848-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:212] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 00:56:02,289 - 17848-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:213] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:02:42,092 - 22220-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:02:44,488 - 22220-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:211] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 01:02:44,488 - 22220-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:212] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:03:31,312 - 16412-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:03:33,677 - 16412-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:211] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 01:03:33,678 - 16412-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:212] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:04:08,807 - 15728-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:04:11,261 - 15728-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:212] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 01:04:11,261 - 15728-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:213] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:04:27,797 - 10284-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:04:30,315 - 10284-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:213] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 01:04:30,316 - 10284-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:214] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:04:53,227 - 11176-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:04:55,951 - 11176-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:213] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 01:04:55,952 - 11176-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:214] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:07:36,772 - 16796-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:07:39,264 - 16796-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:212] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 01:07:39,264 - 16796-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:213] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:09:54,942 - 17508-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:09:58,634 - 17508-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:212] - ERROR: 用户订单确认收货失败  status:0
+2021-01-30 01:09:58,635 - 17508-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:213] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:10:12,805 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:10:19,749 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:124] - INFO: 创建订单成功
+2021-01-30 01:10:20,938 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:10:24,227 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:143] - INFO: 提交订单成功
+2021-01-30 01:10:25,432 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:10:27,690 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:159] - INFO: 商家确认订单成功
+2021-01-30 01:10:29,023 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:10:31,167 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - INFO: 商家已确认订单成功
+2021-01-30 01:10:32,328 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:10:34,461 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:196] - ERROR: 商家订单发货失败  status:0
+2021-01-30 01:10:34,461 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:198] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:10:35,621 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:10:37,817 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:212] - ERROR: 用户订单确认收货失败  status:-10071
+2021-01-30 01:10:37,818 - 21900-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:213] - ERROR: {
+  "msg": "该订单不能收货确认",
+  "result": [],
+  "status": -10071
+}
+2021-01-30 01:14:32,731 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:14:39,276 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:124] - INFO: 创建订单成功
+2021-01-30 01:14:40,738 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:14:43,164 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:143] - INFO: 提交订单成功
+2021-01-30 01:14:44,463 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:14:47,900 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:159] - INFO: 商家确认订单成功
+2021-01-30 01:14:49,260 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:14:51,712 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - INFO: 商家已确认订单成功
+2021-01-30 01:14:53,033 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:14:55,978 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:194] - INFO: 商家订单发货成功
+2021-01-30 01:14:57,364 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:14:59,866 - 14436-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:209] - INFO: 用户订单确认收货成功
+2021-01-30 01:40:31,112 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:40:39,468 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:124] - INFO: 创建订单成功
+2021-01-30 01:40:42,868 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:40:52,993 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:143] - INFO: 提交订单成功
+2021-01-30 01:40:58,075 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:41:04,367 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:159] - INFO: 商家确认订单成功
+2021-01-30 01:41:07,547 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:41:16,323 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - INFO: 商家已确认订单成功
+2021-01-30 01:41:27,721 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:41:43,597 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:194] - INFO: 商家订单发货成功
+2021-01-30 01:41:45,126 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:41:47,528 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:209] - INFO: 用户订单确认收货成功
+2021-01-30 01:41:48,806 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:41:51,013 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:226] - ERROR: 用户评论订单失败  status:0
+2021-01-30 01:41:51,013 - 9120-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:227] - ERROR: {
+  "msg": "java.lang.NullPointerException",
+  "result": [],
+  "status": 0
+}
+2021-01-30 01:48:29,721 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:48:36,257 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:124] - INFO: 创建订单成功
+2021-01-30 01:48:37,633 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:48:41,009 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:143] - INFO: 提交订单成功
+2021-01-30 01:48:42,424 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:48:44,857 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:159] - INFO: 商家确认订单成功
+2021-01-30 01:48:46,253 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:48:48,517 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:181] - INFO: 商家已确认订单成功
+2021-01-30 01:48:49,898 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:70] - INFO: Seller-Token获取成功
+2021-01-30 01:48:52,584 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:194] - INFO: 商家订单发货成功
+2021-01-30 01:48:54,106 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:48:56,956 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:209] - INFO: 用户订单确认收货成功
+2021-01-30 01:48:58,375 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:43] - INFO: PC-Token获取成功
+2021-01-30 01:49:00,721 - 6776-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:224] - INFO: 用户评论订单成功
+2021-01-30 02:47:08,982 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:35] - INFO: PC-Token获取成功
+2021-01-30 02:47:14,782 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:107] - INFO: 创建订单成功
+2021-01-30 02:47:16,189 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:35] - INFO: PC-Token获取成功
+2021-01-30 02:47:18,545 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:126] - INFO: 提交订单成功
+2021-01-30 02:47:20,056 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:53] - INFO: Seller-Token获取成功
+2021-01-30 02:47:23,500 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:142] - INFO: 商家确认订单成功
+2021-01-30 02:47:24,869 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:53] - INFO: Seller-Token获取成功
+2021-01-30 02:47:27,213 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:164] - INFO: 商家已确认订单成功
+2021-01-30 02:47:28,547 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:53] - INFO: Seller-Token获取成功
+2021-01-30 02:47:31,274 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:176] - INFO: 商家订单发货成功
+2021-01-30 02:47:32,681 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:35] - INFO: PC-Token获取成功
+2021-01-30 02:47:35,151 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:191] - INFO: 用户订单确认收货成功
+2021-01-30 02:47:36,494 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:35] - INFO: PC-Token获取成功
+2021-01-30 02:47:38,837 - 15140-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:206] - INFO: 用户评论订单成功
+2021-02-01 03:04:25,659 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:04:32,191 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:04:33,610 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:04:36,104 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:04:37,475 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:04:39,969 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:04:41,319 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:04:43,848 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:04:45,282 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:04:47,857 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:04:49,500 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:04:51,807 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:04:53,270 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:04:56,163 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:04:57,599 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:05:00,135 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:227] - ERROR: 用户提交申请售后退款失败  rec_id:1618
+2021-02-01 03:05:00,135 - 23136-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:228] - ERROR: 1618
+2021-02-01 03:05:47,995 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:05:53,455 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:05:54,538 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:05:56,704 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:05:57,877 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:05:59,896 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:06:00,957 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:06:02,978 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:06:04,075 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:06:06,056 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:06:08,632 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:06:11,560 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:06:12,747 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:06:14,935 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:06:16,000 - 22164-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:06:54,018 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:07:00,017 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:07:01,220 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:07:03,663 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:07:05,040 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:07:07,514 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:07:09,041 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:07:11,371 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:07:12,734 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:07:15,118 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:07:16,532 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:07:18,878 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:07:25,867 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:07:28,403 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:07:30,801 - 10224-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:08:06,613 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:08:13,296 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:08:14,718 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:08:17,720 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:08:19,301 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:08:22,036 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:08:30,148 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:08:32,370 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:08:33,869 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:08:36,204 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:08:37,692 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:08:41,839 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:08:43,192 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:08:45,727 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:08:47,084 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:08:49,670 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:227] - ERROR: 用户提交申请售后退款失败  rec_id:1621
+2021-02-01 03:08:49,671 - 16268-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:228] - ERROR: 1621
+2021-02-01 03:09:21,959 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:09:28,458 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:12:44,459 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:12:51,267 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:12:52,591 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:12:54,952 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:12:56,477 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:12:58,697 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:13:00,034 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:13:02,325 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:13:03,765 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:13:09,221 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:13:10,539 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:13:15,637 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:13:16,959 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:13:19,424 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:13:21,807 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:13:24,341 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:228] - ERROR: 用户提交申请售后退款失败  rec_id:1630
+2021-02-01 03:13:24,342 - 23452-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:229] - ERROR: 1630
+2021-02-01 03:17:18,515 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:17:25,085 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:17:26,506 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:17:28,909 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:17:30,388 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:17:32,619 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:17:33,970 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:17:36,327 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:17:37,666 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:17:40,360 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:17:41,704 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:17:44,041 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:17:45,459 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:17:47,925 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:17:49,248 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:17:51,588 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:228] - ERROR: 用户提交申请售后退款失败  rec_id:1631
+2021-02-01 03:17:51,589 - 22828-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:229] - ERROR: 1631
+2021-02-01 03:18:24,555 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:18:30,941 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:18:32,381 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:18:34,629 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:18:35,923 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:18:38,174 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:18:39,600 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:18:42,002 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:18:44,879 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:18:47,265 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:18:49,006 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:18:51,304 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:18:53,418 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:18:55,798 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:18:57,124 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:18:59,359 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:228] - ERROR: 用户提交申请售后退款失败  rec_id:1632
+2021-02-01 03:18:59,359 - 22936-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:230] - ERROR: 1632
+2021-02-01 03:19:20,705 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:19:27,014 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:19:28,326 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:19:31,569 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:19:32,966 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:19:35,451 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:19:36,921 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:19:39,192 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:19:40,606 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:19:43,037 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:19:44,411 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:19:46,659 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:19:47,983 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:19:50,801 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:19:53,960 - 12012-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:20:35,134 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:20:40,831 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:20:43,508 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:20:45,631 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:20:46,700 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:20:48,655 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:20:49,727 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:20:54,948 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:20:56,166 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:20:59,972 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:21:01,157 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:21:03,429 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:21:04,522 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:21:06,475 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:21:07,570 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:21:09,544 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:228] - ERROR: 用户提交申请售后退款失败  rec_id:
+2021-02-01 03:21:09,545 - 22672-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:230] - ERROR: {
+  "msg": "已经在申请退货中",
+  "result": [],
+  "status": -10079
+}
+2021-02-01 03:22:10,611 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:22:16,893 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:22:18,240 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:22:20,650 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:22:21,960 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:22:24,996 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:22:26,446 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:22:28,613 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:22:29,966 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:22:32,450 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:22:33,865 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:22:36,099 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:22:37,410 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:22:39,778 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:22:41,053 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:22:43,419 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:228] - ERROR: 用户提交申请售后退款失败  rec_id:
+2021-02-01 03:22:43,419 - 8804-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:229] - ERROR: {
+  "msg": "已经在申请退货中",
+  "result": [],
+  "status": -10079
+}
+2021-02-01 03:25:19,239 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:25:24,913 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:25:26,138 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:25:28,225 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:25:29,397 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:25:31,455 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:25:32,531 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:25:34,712 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:25:35,788 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:25:37,939 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:25:39,030 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:25:41,175 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:25:42,341 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:25:44,531 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:25:45,689 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:25:47,771 - 10788-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:231] - ERROR: 用户提交申请售后退款成功
+2021-02-01 03:37:39,872 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:37:46,492 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:37:47,851 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:37:50,074 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:37:51,479 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:37:53,937 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:37:55,293 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:37:58,110 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:37:59,405 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:38:01,814 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:38:03,232 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:38:05,561 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:38:07,805 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:38:10,358 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:38:11,640 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:38:13,826 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:230] - ERROR: 用户提交申请售后退款成功
+2021-02-01 03:38:15,147 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:38:17,456 - 13980-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:247] - ERROR: 用户提交申请售后退款成功
+2021-02-01 03:46:11,540 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:46:17,786 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:46:19,703 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:46:22,746 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:46:24,009 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:46:26,315 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:46:27,578 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:46:29,934 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:46:31,178 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:46:34,454 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:46:37,691 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:46:39,995 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:46:41,239 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:46:48,575 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:46:49,809 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:46:52,168 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:230] - ERROR: 用户提交申请售后退款成功
+2021-02-01 03:46:53,435 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:46:55,781 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:247] - ERROR: 获取商家售后退换订单信息成功
+2021-02-01 03:46:57,040 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:46:59,379 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:259] - INFO: 确认获取商家售后退换订单失败 status:0
+2021-02-01 03:46:59,379 - 23152-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:260] - ERROR: {
+  "msg": "org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported",
+  "result": [],
+  "status": 0
+}
+2021-02-01 03:47:21,525 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:47:28,714 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:47:30,349 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:47:35,099 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:47:36,612 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:47:39,251 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:47:40,782 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:47:44,381 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:47:47,525 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:47:51,138 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:47:52,767 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:47:56,447 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:47:59,287 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:48:05,169 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:48:06,736 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:48:10,204 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:230] - ERROR: 用户提交申请售后退款成功
+2021-02-01 03:48:11,846 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:48:16,330 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:247] - ERROR: 获取商家售后退换订单信息成功
+2021-02-01 03:48:17,985 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:48:21,561 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:259] - INFO: 确认获取商家售后退换订单失败 status:-10089
+2021-02-01 03:48:21,562 - 12200-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:260] - ERROR: {
+  "msg": "该售后单不能进行同意/拒绝处理",
+  "result": [],
+  "status": -10089
+}
+2021-02-01 03:53:15,104 - 23104-MainThread - D:\Rebatest_Api_demo\common\configHttp.py[line:41] - ERROR: Token获取失败
+2021-02-01 03:53:19,550 - 18508-MainThread - D:\Rebatest_Api_demo\common\configHttp.py[line:41] - ERROR: Token获取失败
+2021-02-01 03:53:43,786 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:53:52,054 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 03:53:54,341 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:53:57,018 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 03:53:58,700 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:54:01,360 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 03:54:02,907 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:54:05,586 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 03:54:07,117 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 03:54:09,797 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 03:54:11,381 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:54:14,002 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 03:54:17,675 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:54:20,381 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 03:54:21,947 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:54:24,585 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:230] - ERROR: 用户提交申请售后退款成功
+2021-02-01 03:54:26,193 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:54:29,683 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:247] - ERROR: 获取商家售后退换订单信息成功
+2021-02-01 03:54:31,190 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 03:54:33,815 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:259] - INFO: 确认获取商家售后退换订单失败 status:-1008913956228338156161315741640
+2021-02-01 03:54:33,815 - 23588-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:260] - ERROR: {
+  "msg": "该售后单不能进行同意/拒绝处理",
+  "result": [],
+  "status": -10089
+}
+2021-02-01 04:09:29,899 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 04:09:39,106 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:111] - INFO: 创建订单成功
+2021-02-01 04:09:41,273 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 04:09:46,898 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:130] - INFO: 提交订单成功
+2021-02-01 04:09:48,736 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 04:09:51,423 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:146] - INFO: 商家确认订单成功
+2021-02-01 04:09:52,908 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 04:09:55,463 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:168] - INFO: 商家已确认订单成功
+2021-02-01 04:09:57,697 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:54] - INFO: Seller-Token获取成功
+2021-02-01 04:10:04,482 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:180] - INFO: 商家订单发货成功
+2021-02-01 04:10:06,814 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 04:10:09,842 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:195] - INFO: 用户订单确认收货成功
+2021-02-01 04:10:11,343 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 04:10:19,090 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:210] - INFO: 用户评论订单成功
+2021-02-01 04:10:20,393 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 04:10:22,738 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:230] - ERROR: 用户提交申请售后退款成功
+2021-02-01 04:10:24,050 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 04:10:27,667 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:247] - ERROR: 获取商家售后退换订单信息成功
+2021-02-01 04:10:29,100 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:36] - INFO: PC-Token获取成功
+2021-02-01 04:10:33,519 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:259] - INFO: 确认获取商家售后退换订单失败 status:-10089  1395624817721408  13  1575  1641
+2021-02-01 04:10:33,519 - 23704-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:260] - ERROR: {
+  "msg": "该售后单不能进行同意/拒绝处理",
+  "result": [],
+  "status": -10089
+}
+2021-02-01 04:57:08,454 - 24168-MainThread - D:/Rebatest_Api_demo/common/configHttp.py[line:53] - ERROR: Token获取失败
+2021-02-01 04:57:13,517 - 25488-MainThread - D:/Rebatest_Api_demo/common/configHttp.py[line:53] - ERROR: Token获取失败
+2021-02-01 05:01:49,978 - 23736-MainThread - D:/Rebatest_Api_demo/common/configHttp.py[line:54] - ERROR: Token获取失败
+2021-02-01 21:43:37,054 - 30276-MainThread - D:/Rebatest_Api_demo/common/configHttp.py[line:54] - ERROR: Token获取失败
+2021-02-02 01:18:57,226 - 34952-MainThread - D:/Rebatest_Api_demo/common/configHttp.py[line:42] - ERROR: Token获取失败
+2021-02-03 20:27:51,590 - 8768-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-03 20:27:56,404 - 8768-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 None
+2021-02-03 20:27:56,409 - 8768-MainThread - D:\Rebatest_Api_demo\common\configHttp.py[line:42] - ERROR: Token获取失败
+2021-02-04 01:42:21,237 - 8268-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:42:22,880 - 8268-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 None
+2021-02-04 01:42:22,886 - 8268-MainThread - D:\Rebatest_Api_demo\common\configHttp.py[line:42] - ERROR: Token获取失败
+2021-02-04 01:43:34,237 - 8160-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:43:36,083 - 8160-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 01:43:36,087 - 8160-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:43:37,723 - 8160-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=1149&item_id=0&goods_num=1 HTTP/1.1" 200 None
+2021-02-04 01:47:31,877 - 10792-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:47:34,023 - 10792-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 01:47:34,032 - 10792-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:47:35,531 - 10792-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=1149&item_id=0&goods_num=1 HTTP/1.1" 200 None
+2021-02-04 01:54:22,510 - 9740-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:54:24,347 - 9740-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 01:54:24,356 - 9740-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:54:26,880 - 9740-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 01:56:58,187 - 5320-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:56:59,532 - 5320-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 01:56:59,540 - 5320-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:57:00,836 - 5320-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 01:57:31,045 - 10212-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:57:32,719 - 10212-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 01:57:32,724 - 10212-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:57:35,504 - 10212-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 01:59:04,441 - 7832-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:59:06,639 - 7832-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 01:59:06,648 - 7832-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 01:59:08,786 - 7832-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 02:02:01,952 - 10796-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:02:03,342 - 10796-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 02:02:03,351 - 10796-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:19:28,907 - 9784-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:19:30,790 - 9784-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 02:19:30,799 - 9784-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:19:33,001 - 9784-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 02:23:41,064 - 11252-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:23:42,609 - 11252-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 02:23:42,617 - 11252-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:23:44,601 - 11252-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 02:24:13,095 - 9732-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:24:14,975 - 9732-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 02:24:14,983 - 9732-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:24:17,205 - 9732-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 02:24:39,137 - 1680-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:24:40,870 - 1680-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 02:24:40,878 - 1680-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:24:42,742 - 1680-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 02:25:05,492 - 10884-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:25:07,052 - 10884-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 02:25:07,060 - 10884-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:25:09,402 - 10884-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 02:25:41,902 - 10680-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:25:43,064 - 10680-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 02:25:43,072 - 10680-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:25:44,282 - 10680-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 02:25:56,885 - 8644-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:25:58,077 - 8644-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 200 170
+2021-02-04 02:25:58,086 - 8644-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:25:59,312 - 8644-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/mall/cart/order?goods_id=698&item_id=0&goods_num=1%0A HTTP/1.1" 200 None
+2021-02-04 02:31:41,639 - 9880-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
+2021-02-04 02:31:44,036 - 9880-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 500 236
+2021-02-04 02:31:44,039 - 9880-MainThread - D:\Rebatest_Api_demo\common\configHttp.py[line:42] - ERROR: Token获取失败
