@@ -1138,3 +1138,7 @@
 2021-02-04 02:31:41,639 - 9880-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:941] - DEBUG: Starting new HTTPS connection (1): nicefoodtest.com:443
 2021-02-04 02:31:44,036 - 9880-MainThread - C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py[line:442] - DEBUG: https://nicefoodtest.com:443 "POST /api/user/login HTTP/1.1" 500 236
 2021-02-04 02:31:44,039 - 9880-MainThread - D:\Rebatest_Api_demo\common\configHttp.py[line:42] - ERROR: Token获取失败
+2021-02-19 03:00:51,128 - 14328-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:38] - INFO: PC-Token获取成功
+2021-02-19 03:01:03,135 - 12348-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:38] - INFO: PC-Token获取成功
+2021-02-19 03:02:38,347 - 13616-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:38] - INFO: PC-Token获取成功
+2021-02-19 03:04:04,775 - 14632-MainThread - D:/Rebatest_Api_demo/JAVA_tpshop_flow.py[line:38] - INFO: PC-Token获取成功

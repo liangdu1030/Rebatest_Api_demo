@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018/7/24 下午3:33
-# @Author  : WangJuan
-# @File    : Session.py
 
 """
 封装获取cookie方法
@@ -17,7 +13,7 @@ from Conf import Config
 class Session:
     def __init__(self):
         self.config = Config.Config()
-        self.log = Log.MyLog()
+        self.log = Logger().get_logger()
 
     def get_session(self, env):
         """
@@ -28,7 +24,8 @@ class Session:
         headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
                           Chrome/67.0.3396.99 Safari/537.36",
-            "Content-Type": "application/x-www-form-urlencoded"
+            "Content-Type": "application/x-www-form-urlencoded",
+            "Connection": "close"
         }
 
         if env == "debug":

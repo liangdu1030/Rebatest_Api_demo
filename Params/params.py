@@ -62,4 +62,3 @@ class Login:
         url.append(params[i]['url'])
         data.append(params[i]['data'])
         header.append(params[i]['header'])
-print(Personal().url[0])

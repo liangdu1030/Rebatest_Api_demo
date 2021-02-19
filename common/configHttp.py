@@ -29,7 +29,7 @@ class RunMain():
 
     def send_cookies(self, type):
         if type == 'pc':
-            result = RunMain().run_main('post', self.url_all+self.data.url,
+            result = RunMain().run_main('post', self.url_all+ str(self.data.url[0]),
                                         {"password": "519475228fe35ad067744465c42a19b2", "verification": ver_code(),
                                          "email": "1979635421@qq.com"})
 

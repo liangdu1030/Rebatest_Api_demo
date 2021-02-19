@@ -1,7 +1,5 @@
 # connect_db：连接数据库，并操作数据库
-import jsonpath
 import pymysql
-import json
 
 class OperationMysql:
     """
@@ -68,15 +66,7 @@ cursor.execute("SELECT VERSION()")
 
 
 if __name__ == '__main__':
-    def get_json_value(json_data, key_name):
-        '''获取到json中任意key的值,结果为list格式'''
-        key_value = jsonpath.jsonpath(json_data, '$..{key_name}'.format(key_name=key_name))
-        # key的值不为空字符串或者为empty（用例中空固定写为empty）返回对应值，否则返回empty
-        return key_value
     op_mysql = OperationMysql('bb2_order')
     order_sn = '1493'
-    res = op_mysql.search_one("SELECT order_id FROM `bb2_order`.`order` where order_id "
-                                                            "=" + order_sn)
+    res = op_mysql.search_one("SELECT order_id FROM `bb2_order`.`order` where order_id =" + order_sn)
     print(res)
-    # print(str(get_json_value(res, 'store_id')).replace(']', '').replace('[', '')\
-    #         .replace("'", ''))
